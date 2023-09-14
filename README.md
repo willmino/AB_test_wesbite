@@ -12,11 +12,11 @@ Use A/B testing to determine which variant of benefit-oriented langauge is more 
 Variant A:
 
 "Are you sure you want to part ways with the tempting taste of our gooey, delicious salted caramel chocolate? Its a treat worth savoring."
-!(https://willmino.github.io/AB_test_variant_A/)
+https://willmino.github.io/AB_test_variant_A/
 
 Variant B:
 "Are you absolutely certain about cancelling your subscription to the mouthwatering, indulgent, and heavenly salted caramel chocolate delight?"
-!(https://willmino.github.io/AB_test_variant_B/)
+https://willmino.github.io/AB_test_variant_B/
 
 
 # Collecting Results
