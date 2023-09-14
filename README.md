@@ -1,5 +1,5 @@
 # AB_test_wesbite
-Testing two variants of benefit oriented language focusing on product flavor.
+Testing two variants of benefit oriented language to help retain customers.
 
 # Customer's Problem:
 
