@@ -8,7 +8,7 @@ Customer wants to increase customer engagement and prevent customer churn by opt
 ## Objective:
 Use A/B testing to determine which variant of benefit-oriented langauge is more effective at preventing subscriptions for salted caramel chocolate.
 
-[AB_test](https://github.com/willmino/AB_test_wesbite/blob/main/images/AB_Test.png)
+![AB_test](https://github.com/willmino/AB_test_wesbite/blob/main/images/AB_Test.png)
 
 # AB testing 
 Variant A:
